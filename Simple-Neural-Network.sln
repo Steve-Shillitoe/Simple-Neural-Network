@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Simple-Neural-Network", "Simple-Neural-Network.pyproj", "{406AA1F9-EC68-43BD-95DD-D8CB1B1CDFE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406AA1F9-EC68-43BD-95DD-D8CB1B1CDFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406AA1F9-EC68-43BD-95DD-D8CB1B1CDFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05D2FC6-20DB-40B3-9910-E9FED220662C}
+	EndGlobalSection
+EndGlobal
