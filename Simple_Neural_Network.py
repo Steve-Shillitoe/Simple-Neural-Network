@@ -1,3 +1,7 @@
+"""
+Building a deep learning neural network from scratch using the book grokking Deep Learning by Andrew W. Trask
+"""
+
 weights = [0.1, 0.2, 0]
 
 def w_sum(a, b):
